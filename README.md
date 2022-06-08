@@ -1,1 +1,1 @@
-# styled-components example :nail-care:
+# :nail_care: styled-components example 
